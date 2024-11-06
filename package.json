@@ -9,6 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@esbuild-plugins/node-globals-polyfill": "^0.2.3",
+    "@types/node": "^22.9.0",
+    "vite-plugin-node-polyfills": "^0.22.0",
     "vue": "^3.5.12"
   },
   "devDependencies": {
